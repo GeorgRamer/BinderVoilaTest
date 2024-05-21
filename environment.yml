@@ -15,6 +15,7 @@ dependencies:
   - rdkit=2023.09.5=py311h4c2f14b_0
   - ipywidgets=8.1.1=pyhd8ed1ab_0
   - jupyterlab=4.0.9=pyhd8ed1ab_0
+  - voila==0.5.5
 
 
 
