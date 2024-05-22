@@ -16,6 +16,7 @@ dependencies:
   - ipywidgets=8.1.1=pyhd8ed1ab_0
   - jupyterlab=4.0.9=pyhd8ed1ab_0
   - voila==0.5.5
+  - ipympl=0.9.3=pyhd8ed1ab_0
 
 
 
